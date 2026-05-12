@@ -6,8 +6,8 @@ This project demonstrates basic Terraform usage with AWS EC2.
 
 - Terraform
 - AWS EC2
-- Amazon Linux AMI
-- t2.micro Instance
+- AWS CLI
+- t3.micro Instance
 
 ## Commands Used
 
